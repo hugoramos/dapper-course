@@ -1,0 +1,10 @@
+/Users/hugosoares/Sites/dapperapi/bin/Debug/netcoreapp2.0/dapperapi.deps.json
+/Users/hugosoares/Sites/dapperapi/bin/Debug/netcoreapp2.0/dapperapi.runtimeconfig.json
+/Users/hugosoares/Sites/dapperapi/bin/Debug/netcoreapp2.0/dapperapi.runtimeconfig.dev.json
+/Users/hugosoares/Sites/dapperapi/bin/Debug/netcoreapp2.0/dapperapi.dll
+/Users/hugosoares/Sites/dapperapi/bin/Debug/netcoreapp2.0/dapperapi.pdb
+/Users/hugosoares/Sites/dapperapi/obj/Debug/netcoreapp2.0/dapperapi.csproj.CoreCompileInputs.cache
+/Users/hugosoares/Sites/dapperapi/obj/Debug/netcoreapp2.0/dapperapi.AssemblyInfoInputs.cache
+/Users/hugosoares/Sites/dapperapi/obj/Debug/netcoreapp2.0/dapperapi.AssemblyInfo.cs
+/Users/hugosoares/Sites/dapperapi/obj/Debug/netcoreapp2.0/dapperapi.dll
+/Users/hugosoares/Sites/dapperapi/obj/Debug/netcoreapp2.0/dapperapi.pdb
