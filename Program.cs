@@ -15,16 +15,26 @@ namespace dapperapi
             // getTickets();
 
             var manutencao = getTicket(5);
+            
+            var newid = insert(new Accent() { Teste = "TIPO NOVO 2018" });
+            Console.WriteLine(newid);
 
-            Console.WriteLine(manutencao.Descricao);
+            // Console.WriteLine(manutencao.Descricao);
             
-            manutencao.Descricao = "Nova descricao2";
+            // manutencao.Descricao = "Nova descricao2";
             
-            updateTicket(manutencao);
+            // updateTicket(manutencao);
             
-            var manutencao2 = getTicket(5);
+            // var manutencao2 = getTicket(5);
             
-            Console.WriteLine(manutencao.Descricao);
+            // Console.WriteLine(manutencao.Descricao);
+        }
+
+        static int insert(Accent accent) {
+            var connection = Db.GetOpenConnection();
+            {
+                  return (int)connection.Insert(accent);
+            }
         }
 
         static void updateTicket(Manutencao manutencao)
